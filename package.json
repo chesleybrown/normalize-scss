@@ -1,0 +1,15 @@
+{
+  "name": "normalize.scss",
+  "version": "3.0.1",
+  "description": "Normalize.scss as a node packaged module",
+  "files": [
+    "_normalize.scss"
+  ],
+  "homepage": "http://necolas.github.io/normalize.css",
+  "repository": {
+    "type": "git",
+    "url": "git://https://github.com/chesleybrown/normalize-scss.git"
+  },
+  "author": "Nicolas Gallagher",
+  "license": "MIT"
+}
